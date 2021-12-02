@@ -1,16 +1,19 @@
 # Papers
 
-- [ ] [Conversational Agents in Software Engineering: Survey, Taxonomy and Challenges](https://arxiv.org/pdf/2106.10901.pdf)
+- [x] [~~Conversational Agents in Software Engineering: Survey, Taxonomy and Challenges~~](https://arxiv.org/pdf/2106.10901.pdf)
 - [ ] [Challenges in Building Intelligent Open-domain Dialog Systems](https://dl.acm.org/doi/10.1145/3383123)
-- [ ] [End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2 - ACL Anthology](https://aclanthology.org/2020.acl-main.54/)
-- [ ] [Multi-Domain Dialogue State Tracking based on State Graph](https://arxiv.org/abs/2010.11137)
 - [ ] [Recent Advances and Challenges in Task-oriented Dialog System](https://arxiv.org/abs/2003.07490)
 - [ ] [Neural Approaches to Conversational AI](https://arxiv.org/abs/1809.08267)
 - [ ] [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://dl.acm.org/doi/10.1145/3166054.3166058)
+
+
+## DS
+- [ ] [End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2 - ACL Anthology](https://aclanthology.org/2020.acl-main.54/)
+- [ ] [Multi-Domain Dialogue State Tracking based on State Graph](https://arxiv.org/abs/2010.11137)
 - [ ] [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562)
 
- 
 ## Knowledge-grounded Conversational Agents
+- [ ] [A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/abs/2010.04389)
 - [ ] [Adapting to Context-Aware Knowledge in Natural Conversation for Multi-Turn Response Selection](https://dl.acm.org/doi/10.1145/3442381.3449902)
 - [ ] [Knowledge-Driven Conversation for Social Robots: Exploring Crowdsourcing Mechanisms for Improving the System Capabilities](https://link.springer.com/chapter/10.1007%2F978-3-030-77091-4_16)
 - [ ] [Augmenting Knowledge-grounded Conversations with Sequential Knowledge Transition](https://aclanthology.org/2021.naacl-main.446/)
@@ -64,7 +67,7 @@ Improve Task-oriented Conversational Modeling](https://arxiv.org/pdf/2106.09174.
 - [ ] [MultiWOZ 2.1: A Consolidated Multi-Domain Dialogue Dataset with State Corrections and State Tracking Baselines](https://arxiv.org/abs/1907.01669)
 ## Evaluation
 - [ ] [Is Your Goal-Oriented Dialog Model Performing Really Well? Empirical Analysis of System-wise Evaluation](https://arxiv.org/abs/2005.07362)
-
+- [ ] [BART for Knowledge Grounded Conversations](https://dl.acm.org/doi/10.1145/3323771.3323824)
 
 ## Models
 - [ ] [SparseBERT: Rethinking the Importance Analysis in Self-attention](https://arxiv.org/abs/2102.12871)
@@ -74,7 +77,7 @@ Improve Task-oriented Conversational Modeling](https://arxiv.org/pdf/2106.09174.
   - This model was used by team19 winners of dstc9 track 1
 - [ ] [TripPy: A Triple Copy Strategy for Value Independent Neural Dialog State Tracking](https://arxiv.org/abs/2005.02877)
 - [ ] [Frames: A Corpus for Adding Memory to Goal-Oriented Dialogue Systems](https://arxiv.org/abs/1704.00057)
-
+- [ ] [BART for Knowledge Grounded Conversations](http://ceur-ws.org/Vol-2666/KDD_Converse20_paper_7.pdf)
 
 ## Other
 - [ ] [Bridging the Gap between Training and Inference for Neural Machine Translation](https://aclanthology.org/P19-1426/)
