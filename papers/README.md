@@ -1,7 +1,7 @@
 # Papers
 
 - [x] [~~Conversational Agents in Software Engineering: Survey, Taxonomy and Challenges~~](https://arxiv.org/pdf/2106.10901.pdf)
-- [ ] [Challenges in Building Intelligent Open-domain Dialog Systems](https://dl.acm.org/doi/10.1145/3383123)
+- [x] [Challenges in Building Intelligent Open-domain Dialog Systems](https://dl.acm.org/doi/10.1145/3383123)
 - [ ] [Recent Advances and Challenges in Task-oriented Dialog System](https://arxiv.org/abs/2003.07490)
 - [ ] [Neural Approaches to Conversational AI](https://arxiv.org/abs/1809.08267)
 - [x] [~~A Survey on Dialogue Systems: Recent Advances and New Frontiers~~](https://dl.acm.org/doi/10.1145/3166054.3166058)
@@ -28,11 +28,11 @@
 ### Dialog System Technology Challenge
 - [x] DSTC10 track 3 presentation [DSTC10 Track Proposal: Knowledge-grounded Task-oriented Dialogue Modeling on Spoken Conversations](https://drive.google.com/file/d/1JMK6EdD_QY2bR49wHhCaiFLPnGj-9Ztd/view)
 - [x] DSTC9 track 1 presentation [Beyond Domain APIs: Task-oriented Conversational Modeling with Unstructured Knowledge Access Track in DSTC9](https://arxiv.org/abs/2101.09276)
-- [x] [Can I Be of Further Assistance? Using Unstructured Knowledge Access to
-Improve Task-oriented Conversational Modeling](https://arxiv.org/pdf/2106.09174.pdf)
+- [x] [~~Can I Be of Further Assistance? Using Unstructured Knowledge Access to
+Improve Task-oriented Conversational Modeling~~](https://arxiv.org/pdf/2106.09174.pdf)
 - [x] [~~RADGE: Relevance Learning and Generation Evaluating Method for Task-Oriented Conversational Systems~~](https://drive.google.com/file/d/1BdhrczeSPlRU26iBsmGHhw8vPkwI4dlk/view)
   - Team 10 DSTC9 track 1
-- [x] [Towards Generalized Models for Beyond Domain API Task-oriented Dialogue](https://drive.google.com/file/d/1N_FhdxkMTmVGGpl13-SgiijMkJR3XJDA/view)
+- [x] [~~Towards Generalized Models for Beyond Domain API Task-oriented Dialogue~~](https://drive.google.com/file/d/1N_FhdxkMTmVGGpl13-SgiijMkJR3XJDA/view)
   - Team 3 DSTC9 track 1 (Best team on objective measures, second on human evaluation)
   - Interesting the approach for the knowledge-seeking turn detection
 - [ ] [Unstructured Knowledge Access in Task-oriented Dialog Modeling using Language Inference, Knowledge Retrieval and Knowledge-Integrative Response Generation](https://arxiv.org/abs/2101.06066)
